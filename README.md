@@ -1,4 +1,6 @@
 PHP+VUE澳门[六合彩图库开发](https://www.tuku325.cc/?tags=227)[搭建六合彩图库网站app](https://www.tuku325.cc/?tags=181)，是一款基于ThinkPHP+VUE的极速六合彩图库系统开发框架。
+- 搭建联系技术：https://cp567.cc/
+- 
 
 ## PHP+VUE澳门六合彩图库源码是什么
 PHP+VUE澳门六合彩图库源码 是基于 uniapp+Thinkphp 开发的六合彩系统开发框架，帮助开发团队和开发人员降低开发和维护成本。 PHP+VUE澳门六合彩图库源码 内置了 CMS 应用，可以直接使用。 PHP+VUE澳门六合彩图库源码 对VUE的路由，模型，配置等进行了应用层面的扩展开发，遵循VUE的约束规范开发者有开发VUE的开发经验可以直接上手。
